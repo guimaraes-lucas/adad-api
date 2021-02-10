@@ -14,10 +14,6 @@ It aims to centralize information related to the sector, such as: schedule, fina
 
 Read this in other languages: [Português do Brasil (pt-BR)](README.pt-BR.md).
 
-## DER - Diagram Entity Relationship
-
-![DER](tree/main/src/main/resources/docs/ADAD App - Diagrama de classes.svg)
-
 ## Extra features using Gitpod
 
 - [Postgres workspace with integrated database manager](https://github.com/marcopeg/docker-images/tree/master/gitpod-workspace-postgres)
