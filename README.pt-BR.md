@@ -14,6 +14,10 @@ Ela tem o propósito de centralizar informações relacionadas ao setor, como: a
 
 Read this in other languages: [English](README.md).
 
+## DER - Diagram Entity Relationship
+
+![DER](src/main/resources/docs/ADAD App - Diagrama de classes.svg)
+
 ## Recursos extras usados no Gitpod
 
 - [Área de trabalho postgres com gerenciador de banco de dados integrado](https://github.com/marcopeg/docker-images/tree/master/gitpod-workspace-postgres)
