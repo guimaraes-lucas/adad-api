@@ -16,7 +16,7 @@ Read this in other languages: [Português do Brasil (pt-BR)](README.pt-BR.md).
 
 ## DER - Diagram Entity Relationship
 
-![DER](/src/main/resources/docs/ADAD App - Diagrama de classes.svg)
+![DER](src/main/resources/docs/ADAD App - Diagrama de classes.svg)
 
 ## Extra features using Gitpod
 
